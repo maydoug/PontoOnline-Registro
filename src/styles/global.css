@@ -16,7 +16,7 @@
 
 html,
 body{
-    background-color: var(--color-background);
+    background-color: var(--color-background-home);
 }
 
 a{
@@ -36,7 +36,7 @@ a:hover{
 
 main {
     width: 100%;
-    height: calc(100vh - 120px);
+    /* height: calc(100vh - 120px); */
     display: flex ;
 
 }
