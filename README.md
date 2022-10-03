@@ -1,4 +1,4 @@
-# new-project-vuejs
+# Desafio tecnico: Ponto Online (VueJS, com CRUD em NEO4J)
 
 ## Project setup
 ```
